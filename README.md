@@ -1,6 +1,5 @@
 # Amazon-Business-Reasearch_Restaurant-Case-Study
 A restaurant case study on amazon business research dataset is available in this repository.
-![image](https://user-images.githubusercontent.com/114598551/212551687-8d21319b-098d-4ee7-a22d-96661e022331.png)
 
 This is a group project carried out by 
 - Nwajiunor Edgar 
