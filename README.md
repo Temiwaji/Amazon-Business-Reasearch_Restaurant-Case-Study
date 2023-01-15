@@ -21,4 +21,4 @@ Does weather influence what people eat?
 What is the preferred mode of transportation used by the restaurant? 
 What time do people pick their orders most?
 What is the correlation between days of the week with respect to the type of vehicle used to deliver food and the distance covered]?
-The notebook on this research has more details and answers the needed qustions.
+The notebook on this research has more details and answers the needed qustions. Also included is a presentation file.
