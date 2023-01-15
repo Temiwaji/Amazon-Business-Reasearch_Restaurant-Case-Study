@@ -9,7 +9,7 @@ This is a group project carried out by
 - Oluwafunmilayo Oluyemi
 - Ndidiamaka Eneje
 - Monica Atuorah
-- Naomi Odidi-
+- Naomi Odidi
 - Kehinde Adebisi
 
 
